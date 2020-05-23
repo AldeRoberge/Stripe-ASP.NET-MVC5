@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="Stripe_ASP.NET_MVC5.MvcApplication" Language="C#" %>
