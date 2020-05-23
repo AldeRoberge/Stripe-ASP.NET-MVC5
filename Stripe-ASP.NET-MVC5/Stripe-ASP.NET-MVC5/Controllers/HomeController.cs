@@ -24,5 +24,12 @@ namespace Stripe_ASP.NET_MVC5.Controllers
             ViewBag.Message = "Your contact page.";
             return View();
         }
+        
+        public ActionResult Checkout()
+        {
+            ViewBag.Message = "The checkout page.";
+            return View();
+        }
+        
     }
 }

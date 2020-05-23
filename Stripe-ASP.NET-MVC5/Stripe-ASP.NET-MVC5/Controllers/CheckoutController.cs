@@ -4,7 +4,6 @@ using Stripe;
 
 namespace Stripe_ASP.NET_MVC5.Controllers
 {
-    //[Route("create-payment-intent")]
     public class CheckoutController : Controller
     {
         [Route("create-payment-intent")]

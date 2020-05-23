@@ -4,11 +4,14 @@
 <h2>@ViewBag.Title.</h2>
 <h3>@ViewBag.Message</h3>
 
+<link rel="stylesheet" href="../../Content/global.css" />
+
 <script src="https://js.stripe.com/v3/"></script>
 <script src="../../Scripts/client.js" defer></script>
 
 <!-- Display a payment form -->
 <form id="payment-form">
+    <input type="text" id="email" placeholder="Email address"/>
     <div id="card-element"><!--Stripe.js injects the Card Element--></div>
     <button id="submit">
         <div class="spinner hidden" id="spinner"></div>
@@ -16,6 +19,9 @@
     </button>
     <p id="card-errors" role="alert"></p>
     <p class="result-message hidden">
-        Payment succeeded, see the result in your <a href="" target="_blank">Stripe dashboard.</a> Refresh the page to pay again.
+        Payment succeeded, see the result in your
+        <a href="" target="_blank">Stripe dashboard.</a> Refresh the page to pay again.
     </p>
 </form>
+
+<p>Refer to <a href="https://stripe.com/docs/testing">this link</a> to know which cards you can use to test.</p>
