@@ -1,6 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="133cc014-dfb2-486f-9da0-b2a8326a0151" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Stripe-ASP.NET-MVC5/Controllers/CheckoutController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stripe-ASP.NET-MVC5/Controllers/WebHookController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stripe-ASP.NET-MVC5/Scripts/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stripe-ASP.NET-MVC5/Views/Home/Checkout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Stripe-ASP.NET-MVC5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Stripe-ASP.NET-MVC5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stripe-ASP.NET-MVC5/App_Start/RouteConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Stripe-ASP.NET-MVC5/App_Start/RouteConfig.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stripe-ASP.NET-MVC5/Stripe-ASP.NET-MVC5.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Stripe-ASP.NET-MVC5/Stripe-ASP.NET-MVC5.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stripe-ASP.NET-MVC5/obj/Debug/Stripe-ASP.NET-MVC5.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Stripe-ASP.NET-MVC5/obj/Debug/Stripe-ASP.NET-MVC5.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stripe-ASP.NET-MVC5/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/Stripe-ASP.NET-MVC5/packages.config" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Stripe-ASP.NET-MVC5/Controllers/CheckoutController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stripe-ASP.NET-MVC5/App_Start/FilterConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stripe-ASP.NET-MVC5/App_Start/RouteConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stripe-ASP.NET-MVC5/Views/Home/Contact.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stripe-ASP.NET-MVC5/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stripe-ASP.NET-MVC5/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stripe-ASP.NET-MVC5/Views/Home/About.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stripe-ASP.NET-MVC5/Views/Home/Checkout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Stripe-ASP.NET-MVC5/App_Start/RouteConfig.cs" />
+        <option value="$PROJECT_DIR$/Stripe-ASP.NET-MVC5/Views/Home/Checkout.cshtml" />
+        <option value="$PROJECT_DIR$/Stripe-ASP.NET-MVC5/Scripts/client.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cJsBuUc911uDNN9klx1ytaXhvc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RunManager">
@@ -23,5 +91,38 @@
         <option name="Build" />
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="133cc014-dfb2-486f-9da0-b2a8326a0151" name="Default Changelist" comment="" />
+      <created>1590257898728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590257898728</updated>
+      <workItem from="1590257914586" duration="227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>

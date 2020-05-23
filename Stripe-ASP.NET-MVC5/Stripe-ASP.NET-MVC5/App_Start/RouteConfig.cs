@@ -18,6 +18,22 @@ namespace Stripe_ASP.NET_MVC5
                 url: "{controller}/{action}/{id}",
                 defaults: new {controller = "Home", action = "Index", id = UrlParameter.Optional}
             );
+
+            #region Stripe Hooks
+
+            routes.MapRoute(
+                "Checkout", // Route name
+                "create-payment-intent", // URL with parameters
+                new {controller = "Checkout", action = "Create"} // Parameter defaults
+            );
+
+            routes.MapRoute(
+                "WebHook", // Route name
+                "webhook", // URL with parameters
+                new {controller = "WebHook", action = "Index"} // Parameter defaults
+            );
+
+            #endregion
         }
     }
 }
